@@ -4,11 +4,11 @@
 <br />
 <div align="center">
   <a href="https://github.com/g4n3sha5/Krypto-Jarocin">
-    <img src="assets/img/logo_final.png" alt="Logo" width="80" height="80">
+    <img src="assets/img/favicon.png" alt="Logo" width="80" height="80">
   </a>
 
   
-<h3 align="center">Auratek</h3>
+<h3 align="center">Krypto Jarocin</h3>
 
   <p align="center">
    Page for personal Crypto Exchange business
@@ -32,17 +32,8 @@ Live on www.kryptojarocin.pl
    ```sh
    git clone https://github.com/github_username/repo_name.git
    ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
-3. Run server 
-   ```sh
-   npm run dev
-   ```
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-
+2. Open index.html file
+   
 
 
 ![logotyp](https://user-images.githubusercontent.com/116462435/224021822-0c249b11-91f2-4658-a612-d608193155a5.png)
