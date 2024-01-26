@@ -16,7 +16,7 @@
   </p>
 </div>
 
-[![kryptojarocin.webp](https://i.postimg.cc/xjZ3n2Yj/kryptojarocin.webp)](www.kryptojarocin.pl)
+[![kryptojarocin.webp](https://i.postimg.cc/xjZ3n2Yj/kryptojarocin.webp)](https://g4n3sha5.github.io/Krypto-Jarocin/)
 
 ### Built With
 
