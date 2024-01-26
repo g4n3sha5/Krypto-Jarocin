@@ -30,7 +30,7 @@
 Live on www.kryptojarocin.pl
 1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/g4n3sha5/Krypto-Jarocin/
    ```
 2. Open index.html file
    
